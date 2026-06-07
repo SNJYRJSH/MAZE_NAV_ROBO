@@ -5,8 +5,8 @@ Image of the original car;
 <img width="1193" height="562" alt="image" src="https://github.com/user-attachments/assets/9f653104-85ed-48de-ba85-721ed7c5f06f" />
 
 **PROCESS ⚒️**;
-<img width="245" height="313" alt="IMadeTheMimicYogurtGIF" src="https://github.com/user-attachments/assets/a58830e2-dca5-4527-b84a-89b831f1573f" />
 
+<img width="498" height="370" alt="HomeAloneGIF" src="https://github.com/user-attachments/assets/3be2f994-08cd-4241-9960-7be7d04d7b66" />
 
 1) Originally, the project was planned to be used with ultrasonic sensors. Therefore, cutouts were made in the windows to accommodate the sensors.
 <img width="1562" height="798" alt="image" src="https://github.com/user-attachments/assets/30f7a749-5a94-43d4-a633-edc141e85d8f" />
