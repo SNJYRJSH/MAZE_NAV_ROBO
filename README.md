@@ -24,6 +24,8 @@ Image of the original car;
    
    - So, I took a servo motor and made a custom attachment for it that drives the steering gear, which makes the wheels move left and right
    <img width="542" height="1204" alt="image" src="https://github.com/user-attachments/assets/32d46bd7-c8a6-44d1-8a09-8ef9a0d327d6" />
+   
+   - Steering Gear;
    <img width="542" height="1204" alt="image" src="https://github.com/user-attachments/assets/adab1d9c-df23-42cd-8217-ca3bb2ea1ed9" />
 
 5) I ran into the issue of the original plastic steering link breaking because of the glue and the small extension I made for it.
